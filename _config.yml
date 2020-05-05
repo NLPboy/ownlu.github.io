@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: logic_dance@qq.com
 description: "Wishing you a world of happiness and love as all your dreams come true"
 keyword: "Li Juanjuan, Be my girl"
-url: "http://nlpboy.github.io"          # your host, for absolute URL
+url: "http://ownlu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/NLPboy/nlpboy.github.io" # you code repository
+github_repo: "https://github.com/ownlu/ownlu.github.io" # you code repository
 
 # Sidebar settings
 sidebar: false                          # whether or not using Sidebar.
